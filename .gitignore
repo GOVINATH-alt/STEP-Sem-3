@@ -3,3 +3,5 @@
 .DS_Store
 .idea/
 *.iml
+push_all_branches.bat
+push_all_branches.ps1
